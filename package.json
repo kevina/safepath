@@ -1,0 +1,14 @@
+{
+  "author": "kevina",
+  "bugs": {
+    "url": "https://github.com/kevina/safepath"
+  },
+  "gx": {
+    "dvcsimport": "github.com/kevina/safepath"
+  },
+  "gxVersion": "0.7.0",
+  "language": "go",
+  "license": "MIT",
+  "name": "safepath",
+  "version": "0.0.1"
+}
